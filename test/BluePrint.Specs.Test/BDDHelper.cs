@@ -15,7 +15,8 @@ namespace BluePrint.Specs.Tests
             {
                 //...
             };
-            steps.Select(_ => _.Compile()).ForEach(_ => _.Invoke(textContext));
+            steps.Select(_ => _.Compile()).
+                ForEach(_ => _.Invoke(textContext));
         }
     }
 
