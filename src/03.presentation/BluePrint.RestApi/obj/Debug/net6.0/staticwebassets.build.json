@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oVuob6M+4k/5t70T439ZScR0dBocRPodDuqONlcSrhs=",
+  "Source": "BluePrint.RestApi",
+  "BasePath": "_content/BluePrint.RestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
